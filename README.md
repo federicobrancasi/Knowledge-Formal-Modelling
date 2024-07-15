@@ -1,6 +1,6 @@
 # Knowledge Formal Modelling
 
-This repository contains a Jupyter Notebook and accompanying Python scripts dedicated to generating graphs that represent formal models of the real world. These resources have been created for Professor Fausto Giunchiglia from the University of Trento and explore various methodologies and models for knowledge modelling.
+This repository contains a **[Jupyter Notebook](Knowledge_Formal_Modelling.ipynb)** and accompanying Python scripts dedicated to generating graphs that represent formal models of the real world. These resources have been created for Professor Fausto Giunchiglia from the University of Trento and explore various methodologies and models for knowledge modelling.
 
 ## Contents
 
@@ -56,8 +56,6 @@ Here we present the ETG Knowledge Graph, which integrates events, entities and r
 
 - **ETG Knowledge Graph**
   - **[ETG_Knowledge_Graph.py](ETG_Knowledge_Graph.py):** Python script for ETG Knowledge Graph modelling.
-- **ER Model**
-  - **[ER_Model.py](ER_Model.py):** Python script for ER Model.
 
 ### EG Knowledge Graph / Database: Real-World Data Representation
 
